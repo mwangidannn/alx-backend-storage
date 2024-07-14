@@ -1,4 +1,4 @@
---how and add orders
+-- Show and add orders
 SELECT * FROM items;
 SELECT * FROM orders;
 

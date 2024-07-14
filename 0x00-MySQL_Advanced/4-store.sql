@@ -1,4 +1,4 @@
---reates a trigger that decreases the quantity
+-- Creates a trigger that decreases the quantity
 -- of an item after adding a new order
 -- New & OLD are MySQL extensions to triggers
 -- enable to access columns in the rows affected by a trigger
