@@ -1,4 +1,4 @@
---sts all bands with Glam rock as their style,
+-- Lists all bands with Glam rock as their style,
 -- ranked by their longevity
 -- Column names must be: band_name & lifespan
 
