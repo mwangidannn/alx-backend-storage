@@ -1,4 +1,4 @@
---Test view
+-- Test view
 SELECT * FROM need_meeting;
 
 SELECT "--";
@@ -28,3 +28,4 @@ SHOW CREATE TABLE need_meeting;
 SELECT "--";
 
 SHOW CREATE TABLE students;
+
