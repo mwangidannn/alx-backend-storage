@@ -1,4 +1,4 @@
---how and compute average score
+-- Show and compute average score
 SELECT * FROM users;
 SELECT * FROM corrections;
 
