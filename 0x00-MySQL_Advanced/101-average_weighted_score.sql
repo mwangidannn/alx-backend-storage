@@ -1,4 +1,4 @@
---reates a stored procedure ComputeAverageWeightedScoreForUser
+-- Creates a stored procedure ComputeAverageWeightedScoreForUser
 -- that computes and store the average weighted score for all students.
 
 DELIMITER $$
